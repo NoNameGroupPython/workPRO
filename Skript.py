@@ -30,7 +30,7 @@ def main_screen():
         print('\n')
 
     # Display user options
-    print('---Workspace PRO---')
+    print('---Workplace PRO---')
     print('1. Register')
     print('2. Log in')
     print('3. Exit application')
